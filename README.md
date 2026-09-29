@@ -1,6 +1,6 @@
 # Hi, I'm David 👋
 
-I'm a student learning software development by building things I actually use: mobile apps, music tools and small bots.
+Learning software development by building things I actually use: mobile apps, music tools and small bots.
 Lately I build most of it with AI in the loop, pairing with AI coding agents to go from idea to working app quickly.
 
 - 🎓 Learning: C, C++, Python and web fundamentals
