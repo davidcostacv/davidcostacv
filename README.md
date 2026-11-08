@@ -43,6 +43,10 @@ Personal operations board that runs only on localhost: tasks, agenda, chats, Wha
 An offline-first mobile app with everyday tools: gym tracker, expenses, subscriptions, document vault and PDF tools.
 `TypeScript` · `Expo` · `React Native` · `SQLite`
 
+## 🎓 Certifications
+
+- **[CS50's Introduction to Programming with Python (CS50P)](https://cs50.harvard.edu/certificates/d4a1d82c-3b52-4fc7-bd12-4a4837525887)**, Harvard University, 2026. Nine problem sets and a final project.
+
 ## 🧰 Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
